@@ -11,8 +11,7 @@ export default function EmpresasPage() {
         </h1>
 
         <p className="mx-auto mt-6 max-w-xl text-lg text-white/70">
-          Próximamente desarrollaremos aquí el área de El Llavero de Lucas
-          dirigida a empresas.
+          Próximamente desarrollaremos aquí el área dirigida a empresas.
         </p>
 
         <a
@@ -25,4 +24,3 @@ export default function EmpresasPage() {
     </main>
   );
 }
-
